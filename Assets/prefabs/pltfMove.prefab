@@ -1,0 +1,152 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &502165579207706003
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 355950312421632800, guid: 2e114d5ac3ea06542adfec067cd73f4f, type: 3}
+      propertyPath: m_Name
+      value: pltfm4b (1) Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 355950312421632800, guid: 2e114d5ac3ea06542adfec067cd73f4f, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 355950312421632800, guid: 2e114d5ac3ea06542adfec067cd73f4f, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
+    - target: {fileID: 2392807932107175824, guid: 2e114d5ac3ea06542adfec067cd73f4f, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 2759553405051940180, guid: 2e114d5ac3ea06542adfec067cd73f4f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 4.0589113
+      objectReference: {fileID: 0}
+    - target: {fileID: 2759553405051940180, guid: 2e114d5ac3ea06542adfec067cd73f4f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.37690496
+      objectReference: {fileID: 0}
+    - target: {fileID: 2759553405051940180, guid: 2e114d5ac3ea06542adfec067cd73f4f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.0022747815
+      objectReference: {fileID: 0}
+    - target: {fileID: 2759553405051940180, guid: 2e114d5ac3ea06542adfec067cd73f4f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2759553405051940180, guid: 2e114d5ac3ea06542adfec067cd73f4f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2759553405051940180, guid: 2e114d5ac3ea06542adfec067cd73f4f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2759553405051940180, guid: 2e114d5ac3ea06542adfec067cd73f4f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2759553405051940180, guid: 2e114d5ac3ea06542adfec067cd73f4f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2759553405051940180, guid: 2e114d5ac3ea06542adfec067cd73f4f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2759553405051940180, guid: 2e114d5ac3ea06542adfec067cd73f4f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4199069901106713107, guid: 2e114d5ac3ea06542adfec067cd73f4f, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 4780939679969219382, guid: 2e114d5ac3ea06542adfec067cd73f4f, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 5091020607049178575, guid: 2e114d5ac3ea06542adfec067cd73f4f, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 8875160920860448873, guid: 2e114d5ac3ea06542adfec067cd73f4f, type: 3}
+      propertyPath: m_BodyType
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8875160920860448873, guid: 2e114d5ac3ea06542adfec067cd73f4f, type: 3}
+      propertyPath: m_AngularDrag
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8875160920860448873, guid: 2e114d5ac3ea06542adfec067cd73f4f, type: 3}
+      propertyPath: m_GravityScale
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9119951511481350861, guid: 2e114d5ac3ea06542adfec067cd73f4f, type: 3}
+      propertyPath: m_UsedByEffector
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 355950312421632800, guid: 2e114d5ac3ea06542adfec067cd73f4f, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 2342533207446611249}
+    - targetCorrespondingSourceObject: {fileID: 355950312421632800, guid: 2e114d5ac3ea06542adfec067cd73f4f, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 9024495181883900469}
+  m_SourcePrefab: {fileID: 100100000, guid: 2e114d5ac3ea06542adfec067cd73f4f, type: 3}
+--- !u!1 &146536327151496883 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 355950312421632800, guid: 2e114d5ac3ea06542adfec067cd73f4f, type: 3}
+  m_PrefabInstance: {fileID: 502165579207706003}
+  m_PrefabAsset: {fileID: 0}
+--- !u!234 &2342533207446611249
+SliderJoint2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 146536327151496883}
+  m_Enabled: 1
+  serializedVersion: 4
+  m_EnableCollision: 1
+  m_ConnectedRigidBody: {fileID: 0}
+  m_BreakForce: Infinity
+  m_BreakTorque: Infinity
+  m_BreakAction: 3
+  m_AutoConfigureConnectedAnchor: 1
+  m_Anchor: {x: -0.45160294, y: -0.19978762}
+  m_ConnectedAnchor: {x: -11.338603, y: -7.1057878}
+  m_AutoConfigureAngle: 0
+  m_Angle: 0
+  m_UseMotor: 0
+  m_Motor:
+    m_MotorSpeed: 1
+    m_MaximumMotorForce: 10
+  m_UseLimits: 1
+  m_TranslationLimits:
+    m_LowerTranslation: 0
+    m_UpperTranslation: 0.5
+--- !u!114 &9024495181883900469
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 146536327151496883}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9073d466c95d9a347ab0a1d709054d48, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sliderJoint: {fileID: 2342533207446611249}
+  moveSpeed: 0.2
+  movingRight: 0
